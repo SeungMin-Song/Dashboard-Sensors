@@ -10,6 +10,6 @@ LINK for repository: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors
 
 Proposal LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/tree/master/documentation"> https://github.com/SeungMin-Song/Dashboard-Sensors/tree/master/documentation </a>
 
-<H4>16/Sep/2019<\H4>
+<H4>16/Sep/2019</H4>
 
 Add logo(sample design) in image folder.
