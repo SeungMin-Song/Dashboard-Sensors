@@ -20,4 +20,4 @@ LOGO LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/mast
 
 Upload Project Scedule.
 
-Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.mpp"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.mpp </a>
+Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf </a>
