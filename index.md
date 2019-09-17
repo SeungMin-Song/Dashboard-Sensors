@@ -13,3 +13,11 @@ Proposal LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/tree/
 <H4>16/Sep/2019</H4>
 
 Add logo(sample design) in image folder.
+
+LOGO LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/logo(sample%20design).PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/logo(sample%20design).PNG </a>
+
+<H4>17/Sep/2019</H4>
+
+Upload Project Scedule.
+
+Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/logo(sample%20design).PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/logo(sample%20design).PNG </a>
