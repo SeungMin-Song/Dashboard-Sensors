@@ -8,7 +8,9 @@ Add Proposal Files.
 
 LINK for repository: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors">https://github.com/SeungMin-Song/Dashboard-Sensors </a>
 
-Proposal LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/tree/master/documentation"> https://github.com/SeungMin-Song/Dashboard-Sensors/tree/master/documentation </a>
+Proposal LINK 1: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectProposalSeungMinSongRev03.docx.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectProposalSeungMinSongRev03.docx.pdf </a>
+
+Proposal LINK 2: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProposalContentSeungMinSongRev03.pdff"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProposalContentSeungMinSongRev03.pdf </a>
 
 <H4>16/Sep/2019</H4>
 
