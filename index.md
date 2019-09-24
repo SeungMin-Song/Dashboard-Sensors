@@ -23,3 +23,9 @@ LOGO LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/mast
 Upload Project Scedule.
 
 Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf </a>
+
+<H4>24/Sep/2019</H4>
+
+Upload Project Burget
+
+Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.xlsx"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.xlsx </a>
