@@ -28,4 +28,4 @@ Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/m
 
 Upload Project Burget
 
-Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.xlsx"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.xlsx </a>
+Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf </a>
