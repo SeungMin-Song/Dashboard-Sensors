@@ -26,9 +26,11 @@ Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/m
 
 <H4>24/Sep/2019</H4>
 
+<H4>Budget is changed. Please use new burget Link in 24/Sep/2019</H4>
+
 Upload Project Burget
 
-Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf </a>
+(Old version)Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf </a>
 
 <H4>24/Sep/2019</H4>
 
@@ -41,4 +43,9 @@ Receipt LINK(PNG file):
 Hall Effect Sensor: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG </a>
 
 Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
+
+Upload New Version of Budget
+New Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf </a>
+
+
     
