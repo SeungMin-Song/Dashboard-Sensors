@@ -45,6 +45,7 @@ Hall Effect Sensor: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/
 Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
 
 Upload New Version of Budget
+
 New Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf </a>
 
 
