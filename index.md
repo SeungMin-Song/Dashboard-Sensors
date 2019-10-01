@@ -40,9 +40,9 @@ Receipt LINK(PDF):<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/bl
 
 Receipt LINK(PNG file):
 
-Hall Effect Sensor: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG </a>
+   Hall Effect Sensor: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG </a>
 
-Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
+   Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
 
 Upload New Version of Budget
 
