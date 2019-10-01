@@ -26,13 +26,13 @@ Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/m
 
 <H4>24/Sep/2019</H4>
 
-<H4>Budget is changed. Please use new burget Link in 24/Sep/2019</H4>
+<H4>Budget is changed. Please use new burget Link in 01/Oct/2019</H4>
 
 Upload Project Burget
 
 (Old version)Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/Budget4SeungMinSong.pdf </a>
 
-<H4>24/Sep/2019</H4>
+<H4>01/Oct/2019</H4>
 
 Upload Receipt for Project Sensor and Raspberry-PI
 
