@@ -44,8 +44,7 @@ Receipt LINK(PNG file):
 
    Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
 
-Upload New Version of Budget
-
+Upload New Version of Budget<br>
 New Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf </a>
 
 
