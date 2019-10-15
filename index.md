@@ -2,10 +2,10 @@
 
 
 Upload design of breadboard,schemetic, PCB <br>
-Design of breadboard:
-Design of schemetic:
-Design of PCB:
-fzz file: 
+Design of breadboard: <br>
+Design of schemetic: <br>
+Design of PCB: <br>
+fzz file: <br>
 <H4>01/Oct/2019</H4>
 
 Upload Receipt for Project Sensor and Raspberry-PI<br>
