@@ -1,7 +1,7 @@
 <H4>15/Oct/2019</H4>
 
 
-Upload design of breadboard,schemetic, PCB <br>
+Upload design of breadboard,schemetic, PCB, and fzz files <br>
 Design of breadboard: <br>
 Design of schemetic: <br>
 Design of PCB: <br>
