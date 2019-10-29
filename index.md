@@ -2,8 +2,8 @@
 
 Upload files about breadboarded assembly milestone<br>
 Picture of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/breadboard.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/breadboard.jpg </a><br>
-Output: <raspberryPi has some issues> <br>
-Code: <raspberryPi has some issues> <br>
+Output: raspberryPi has some issues <br>
+Code: raspberryPi has some issues <br>
 
 <H4>15/Oct/2019</H4>
 
