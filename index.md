@@ -1,5 +1,11 @@
-<H4>15/Oct/2019</H4>
+<H4>29/Oct/2019</H4>
 
+Upload files about breadboarded assembly milestone<br>
+Picture of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/breadboard.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/breadboard.jpg </a><br>
+Output: <raspberryPi has some issues> <br>
+Code: <raspberryPi has some issues> <br>
+
+<H4>15/Oct/2019</H4>
 
 Upload design of breadboard,schemetic, PCB, and fzz files <br>
 Design of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_bb.png"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_bb.png </a><br>
