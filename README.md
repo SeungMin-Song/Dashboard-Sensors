@@ -1,12 +1,11 @@
 # Dashboard-Sensors
  Dashboard-Sensors
-
 <H4>29/Oct/2019</H4>
 
 Upload files about breadboarded assembly milestone<br>
 Picture of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg </a><br>
-Output: raspberryPi has some issues <br>
-Code: raspberryPi has some issues: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py </a> <br>
+Output: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg">https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg </a> <br>
+Code: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py </a> <br>
 
 <H4>15/Oct/2019</H4>
 
