@@ -1,14 +1,27 @@
-import RPi.GPIO as gpio
+import RPi.GPIO as GPIO
 
-gpio.setmode(gpio.BCM)
-gpio.setwarning(False)
+HALL = 12
 
-hallpin = 2
+GPIO.setmode(GPIO.BOARD)
 
-gpio.setup(hallpin, gpio.IN)
+GPIO.setwarnings(False)
 
-While True:
-	if(gpio.input(hallpin) == False);
-		print("magnet detected!, Sensor is working");
+GPIO.setup(HALL, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+
+def change_detected(channel):
+	if GPIO.input(HALL) == GPIO.LOW:
+		print("Magnetic material detected.")
 	else:
-		print("magnet moves away.");
+		print("No magnetic material.")
+
+GPIO.add_event_detect(HALL, GPIO.BOTH, change_detected, bouncetime=25)
+
+try:
+	while True:
+		pass
+
+except KeyboardInterrup:
+	print("Ctrl-C - quit")
+
+finally:
+	GPIO.cleanup()
