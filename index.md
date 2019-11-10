@@ -17,7 +17,7 @@ Code: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/so
 Upload design of breadboard,schemetic, PCB, and fzz files <br>
 Design of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_bb.png"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_bb.png </a><br>
 Design of schemetic: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_schem.png"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor_schem.png </a><br>
-Design of PCB: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.png"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.png </a><br>
+Design of PCB: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg </a><br>
 fzz file1 (BB, schmetic): <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor.fzz"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor.fzz </a><br>
 fzz file2 (pcb): <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor%20pcb.fzz"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor%20pcb.fzz </a><br>
 
