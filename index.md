@@ -1,9 +1,9 @@
 <H4>5/Nov/2019</H4>
 
-Upload PCB board after soldering.<br>
-   <tap> Got problem with PCB. I tried 3 times to get new pcb, soldering, and test. But some reason, the power were not turn on.<br>
-
-PCB board with header<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf </a><br>
+Upload PCB board after soldering,output of run program, and power on pcb board.<br>
+Output of run python code with pcb: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/run_py_code_with_pcb.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/run_py_code_with_pcb.PNG </a><br>
+Power on PCB board: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG </a><br>
+PCB board with header: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf </a><br>
 Check power voltage of Sensor using BB:<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg </a><br>
 
 
