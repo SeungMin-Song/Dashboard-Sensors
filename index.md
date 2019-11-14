@@ -1,8 +1,10 @@
 <H4>5/Nov/2019</H4>
 
-PCB board with header(TOP)<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_top.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_top.jpg </a><br>
-PCB board with header(BOTTOM)<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_bottom.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_bottom.jpg </a><br>
-Check power voltage of Sensor:<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg </a><br>
+Upload PCB board after soldering.<br>
+   <tap> Got problem with PCB. I tried 3 times to get new pcb, soldering, and test. But some reason, the power were not turn on.<br>
+
+PCB board with header<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/PCB.pdf </a><br>
+Check power voltage of Sensor using BB:<a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg </a><br>
 
 
 <H4>29/Oct/2019</H4>
