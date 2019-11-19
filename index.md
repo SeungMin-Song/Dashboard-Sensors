@@ -1,3 +1,9 @@
+<H4>19/Nov/2019</H4>
+Upload design file of case and picture of case using 3D printer<br>
+Design File(.stl file):  <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl </a><br>
+Picture of my case using 3D printer: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/3D_print_case.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/3D_print_case.jpg </a><br>
+
+
 <H4>12/Nov/2019</H4>
 
 Upload output of run program and power on pcb board.<br>
