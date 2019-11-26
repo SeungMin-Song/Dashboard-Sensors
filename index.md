@@ -28,6 +28,7 @@ Check power voltage of Sensor using BB:<a href="https://github.com/SeungMin-Song
 <H4>29/Oct/2019</H4>
 
 Upload files about breadboarded assembly milestone<br>
+I got small issue with my Raspberry Pi, so I spend more time to work this. But now I success to connect Raspberry Pi to my Labtop using Wi-Fi.
 Picture of breadboard: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg </a><br>
 Output: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg">https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg </a> <br>
 Code: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/test_hall_effect_sensor.py </a> <br>
