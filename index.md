@@ -2,7 +2,6 @@
 <H4>26/Nov/2019</H4>
 
 Upload PowerPoint for presentation<br>
-pdf file: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/sensor_presentation.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/sensor_presentation.pdf</a><br>
 pptx file: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/sensor_presentation.pptx"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/sensor_presentation.pptx </a><br>
 
 <H4>19/Nov/2019</H4>
