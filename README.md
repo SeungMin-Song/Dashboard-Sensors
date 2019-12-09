@@ -28,7 +28,7 @@
     <td>CAD$ 153.16</td>
 	<td>CAD$ 4.77</td>
 	<td>CAD$ 157.93</td>
-    <td>SunFounder</td>
+    <td>CanaKit</td>
   </tr>
 </table>
 <h4>Recipt for Hall Effect Sensor</h4>
