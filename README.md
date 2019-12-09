@@ -30,9 +30,16 @@
 	<td>CAD$ 157.93</td>
     <td>CanaKit</td>
   </tr>
+	<tr>
+    <td>Magnet</td>
+    <td>CAD$ 1.50</td>
+	<td>CAD$ 0.00</td>
+	<td>CAD$ 1.70</td>
+    <td>Dollarama</td>
+  </tr>
 </table>
-<h4>Recipt for Hall Effect Sensor</h4>
 
+<h4>Recipt for Hall Effect Sensor</h4>
 
 ![billForSensor](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG)
 
