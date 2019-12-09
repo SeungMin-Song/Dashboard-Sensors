@@ -8,7 +8,7 @@
 
 ## Bill of Materials/Budget
 
-<table style="width:100%" background-color: #f1f1c1;>
+<table style="width:100%" background-color: #f1f1c1>
   <tr>
     <th>Product Name</th>
     <th>Price</th>
