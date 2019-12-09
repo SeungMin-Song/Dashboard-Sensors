@@ -8,7 +8,7 @@
 
 ## Bill of Materials/Budget
 
-<table style="width:100%">
+<table style="width:100%" background-color: #f1f1c1;>
   <tr>
     <th>Product Name</th>
     <th>Price</th>
@@ -39,22 +39,11 @@
   </tr>
 </table>
 
-<h4>Recipt for Hall Effect Sensor</h4>
-
-![billForSensor](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG)
-
-
-<h4>Recipt for Raspberry Pi 4 B</h4>
-
-![billForPi](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG)
-
 ## Time Commitment
 
 ## Mechanical Assembly
 
 ## PCB / Soldering
-
-
 
 ## Power Up
 
