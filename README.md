@@ -68,8 +68,8 @@
 ## PCB / Soldering
 
 ![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
-![pcb top](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_T.PNG)
-![pcb bottom](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_B.PNG)
+![pcb](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)
+
 
 ## Power Up and production testing
 
