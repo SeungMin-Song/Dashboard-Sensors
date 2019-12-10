@@ -1,5 +1,18 @@
 
 # Automitive UI - Hall Effect Sensor
+## Table of Contents
+
+1.  [Introduction using a system diagram](## Introduction using a system diagram)
+2.  [Bill of Materials](#bill-of-materials) 
+3.  [Time Commitment](#time-commitment)
+4.  [Mechanical Assembly](#mechanical-assembly)
+5.  [PCB/Soldering](#pcb-soldering)
+6.  [Power Up](#power-up)
+7.  [Unit Testing](#unit-testing)
+8.  [Production Testing](#production-testing)
+9.  [Reproducible](#reproducible)
+
+
 ## Introduction using a system diagram
 
 The subject of our project team is Automotive UI. Our main goal is to make it easier and faster for doctors, nurses and paramedics to communicate. The main purpose in hardware is to design and build dashboard for paramedics.
