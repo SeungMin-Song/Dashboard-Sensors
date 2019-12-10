@@ -75,6 +75,7 @@
 
 ## Enclosure
 
-![design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl)
+Elcoser design link(stl file): https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl
+
 ![3D case](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/case.PNG)
 
