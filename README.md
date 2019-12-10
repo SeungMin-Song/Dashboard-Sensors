@@ -61,15 +61,15 @@
 
 ## Time Commitment
 
+![schedule](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/schedule.PNG)
+
 ## Mechanical Assembly
 
 ## PCB / Soldering
 
-## Power Up
+![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
+![pcb top](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_T.PNG)
+![pcb bottom](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/PCB_B.PNG)
 
-## Unit Testing
-
-## Production Testing
-
-## Is the project reproducible by following your instructions?
+## Power Up and production testing
 
