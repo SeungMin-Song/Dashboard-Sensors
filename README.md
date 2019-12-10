@@ -42,7 +42,8 @@
 	<td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
     <td>Prototype Lab</td>
-	
+</tr>
+<tr>
    <td>Elcosure</td>
     <td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
