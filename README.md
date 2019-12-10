@@ -73,3 +73,8 @@
 
 ## Power Up and production testing
 
+## Enclosure
+
+![design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl)
+![3D case](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/case.PNG)
+
