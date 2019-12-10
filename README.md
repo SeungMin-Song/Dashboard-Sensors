@@ -3,10 +3,10 @@
 ## Table of Contents
 
 1.  [Introduction using a system diagram](#introduction-using-a-system-diagram)
-2.  [Bill of Materials/Budget](#bill-of-materials-burget) 
+2.  [Bill of Materials](#bill-of-materials) 
 3.  [Time Commitment](#time-commitment)
 4.  [Mechanical Assembly](#mechanical-assembly)
-5.  [PCB/Soldering](#pcb-soldering)
+5.  [PCB with soldering](#pcb-with-soldering)
 6.  [Power Up and production testing](#power-up-and-production-testing)
 7.  [Enclosure](#enclosure)
 
@@ -21,7 +21,7 @@ At CENG317 I focused on sensor connection and testing. As you can see on the sys
 
 ![system diagram](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/system_diagram.png)
 
-## Bill of Materials/Budget
+## Bill of Materials
 
 To implement this project, I purchased a hall effect sensor, a Raspberry Pi 4 B and a magnet. The total price is $ 171.64. Both the PCB board and enclosure are made in the school and are free.
 
@@ -153,7 +153,7 @@ finally:
 	GPIO.cleanup()
 ```
 
-## PCB/Soldering
+## PCB with soldering
 
 ![pcb](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)
 
