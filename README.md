@@ -63,7 +63,7 @@ To implement this project, I purchased a hall effect sensor, a Raspberry Pi 4 B 
     <td>Prototype Lab</td>
 </tr>
 <tr>
-   <td>Elcosure(Using 3D printer: https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl)</td>
+   <td>Enclosure (Using 3D printer: https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl)</td>
     <td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
@@ -87,17 +87,22 @@ Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/ma
 
 ## Time Commitment
 
-Most of the schedule was almost identical to the schedule(photo), except for breadboard milestone and pcb power up.
+### shcedule spend time:
 
-I was having trouble connecting my Raspberry Pi to my laptop on Breadboard Milestone. I tried to link this using only what I have. But I failed and my schedule was delayed for a week. I was trying to keep using a Wi-Fi connection from my Raspberry Pi to my laptop. Eventually I solved this problem in a week and returned to my schedule.
-
-In PCB power-up I faced the problem of not turning on when using pcb. But I knew this was a problem with my sordering, and I finished pcb power ups two days later.
-
-If you know how to set up Raspberry Pi and do soldering, it will take a similar time as the schedule below.
-
-![schedule](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/schedule.PNG)
-
-Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf </a>
+	1) Order Hall effect Sensor and Raspberry Pi: 1~2 day include shipping time
+	
+	2) Design BreadBoard and PCB: 1~2 day
+	
+	3) Test BreadBoard design and measure supply power: 1~2 hours
+	
+	
+	4) Order pcb: 1 day
+	
+	5) Sordering PCB and test: 1~2 hours
+	
+	6) design enclosure and print: 2~3 days (printing time is around 12 hours)
+	
+	Total: 5 days 2 hours ~ 10 day 4 hours
 
 ## Mechanical Assembly
 
