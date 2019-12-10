@@ -109,15 +109,27 @@ The ip address (172.20.10.5) in the picture below is the address you used to con
 ![ip_addr](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/ip_addr.PNG)
 
 ### Design Bread Board circuit
-
-
+Create connection using BreadBoard
+	- Raspberry Pi pin 4(5V) to VCC of hall effect sensor
+	- Raspberry Pi pin 12(GPIO 18) to SIG of hall effect sensor
+	- Raspberry Pi pin 14(GND) to GND of Hall effect sensor
+	
 ![BB_Design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Hall%20Effect%20Sensor_BB.ps.png)
 
 ### Check Sensor supply power
 
+Measure VCC to GND
+
 ![check power voltage](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg)
 
 ### Design PCB
+
+Similar with BB design. Please make sure your pin location.
+Using 3 pins header and 6 pins header
+
+	- Raspberry Pi pin 4(5V) to VCC of hall effect sensor
+	- Raspberry Pi pin 12(GPIO 18) to SIG of hall effect sensor
+	- Raspberry Pi pin 14(GND) to GND of Hall effect sensor
 
 ![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
 
@@ -157,10 +169,15 @@ finally:
 
 ## PCB with soldering
 
+After get pcb board, make sure about pcb board.
+And do soldering with headers(3 pins header and 6 pins header)
+
 ![pcb](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)
 
 
 ## Power Up and production testing
+
+How power up
 
 ### Bread Board Power up
 
