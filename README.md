@@ -78,6 +78,13 @@ To implement this project, I purchased a hall effect sensor, a Raspberry Pi 4 B 
   </tr>
 </table>
 
+Receipt LINK(PNG file):<br>
+   Hall Effect Sensor: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForHallEffectSensor.PNG </a><br>
+   Raspberry Pi 4: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/receiptForRaspberryPI.PNG </a>
+   
+Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/NewBudget4SeungMinSong.pdf </a>
+
+
 ## Time Commitment
 
 Most of the schedule was almost identical to the schedule(photo), except for breadboard milestone and pcb power up.
@@ -89,6 +96,8 @@ In PCB power-up I faced the problem of not turning on when using pcb. But I knew
 If you know how to set up Raspberry Pi and do soldering, it will take a similar time as the schedule below.
 
 ![schedule](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/schedule.PNG)
+
+Scedule LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/documentation/ProjectSceduleSeungMinSong.pdf </a>
 
 ## Mechanical Assembly
 
@@ -120,6 +129,8 @@ Create connection using BreadBoard
 	
 ![BB_Design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Hall%20Effect%20Sensor_BB.ps.png)
 
+Design File (BB, schmetic): <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor.fzz"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor.fzz </a><br>
+
 ### Check Sensor supply power
 
 Measure VCC to GND
@@ -138,6 +149,8 @@ Using 3 pins header and 6 pins header
 	- Raspberry Pi pin 14(GND) to GND of Hall effect sensor
 
 ![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
+
+Design pcb(pcb): <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor%20pcb.fzz"> https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/software/Hall%20Effect%20Sensor%20pcb.fzz </a><br>
 
 ### Coding
 
