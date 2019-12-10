@@ -200,7 +200,7 @@ And do soldering with headers(3 pins header and 6 pins header)
 
 ## Power Up and production testing
 
-How power up:
+### How power up:
 
 	1. connect BB(breadboard)/PCB to Hall Effect Sensor and Raspberry pi (using jumper wires)
 	
@@ -208,15 +208,15 @@ How power up:
 	
 	3. If Blue led turns on, you are success to power up.
 
-### Bread Board Power up
+#### Bread Board Power up
 
 ![BB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg)
 
-### PCB Power up
+#### PCB Power up
 
 ![PCB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG)
 
-Sensor Testing:
+### Sensor Testing:
 	
 	Read values from sensor
 	
@@ -228,7 +228,7 @@ Sensor Testing:
 		
 		4. Test using magnet (If you success, some sentence will be printed with orange LED)
 
-### Result/Output
+#### Result/Output
 
 when sensor detects magnetic or magnetic materials terminal prints "Magnetic material detected". If it removed, terminal prints "Nonmagnetic material".
 
