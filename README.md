@@ -179,7 +179,7 @@ And do soldering with headers(3 pins header and 6 pins header)
 
 How power up:
 
-	1. connect BB/PCB to Hall Effect Sensor and Raspberry pi (using jumper wires)
+	1. connect BB(breadboard)/PCB to Hall Effect Sensor and Raspberry pi (using jumper wires)
 	
 	2. connect power to raspberry pi
 	
