@@ -81,6 +81,8 @@ In PCB power-up I faced the problem of not turning on when using pcb. But I knew
 
 ### Make connection
 
+I set up auto connect wifi using the code below. If the Wi-Fi you created when you powered up your Raspberry Pi is ready to connect, the Raspberry Pi will connect to it by itself.
+
 ```
 network={
 	ssid="WiFi Name"
@@ -89,9 +91,12 @@ network={
 	}
 ```
 
+The ip address (172.20.10.5) in the picture below is the address you used to connect your Raspberry Pi to the VNC Viewer.
+
 ![ip_addr](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/ip_addr.PNG)
 
 ### Design Bread Board circuit
+
 
 ![BB_Design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Hall%20Effect%20Sensor_BB.ps.png)
 
@@ -104,6 +109,8 @@ network={
 ![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
 
 ### Coding
+
+This code is written in the Python language. This code indicates that the magnetic material is in detect when the sensor is in detect with a magnet or magnetic material.
 
 ```
 import RPi.GPIO as GPIO
@@ -152,9 +159,13 @@ finally:
 
 ### Result/Output
 
+when sensor detects magnetic or magnetic materials terminal prints "Magnetic material detected". If it removed, terminal prints "Nonmagnetic material".
+
 ![result](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg)
 
 ## Enclosure
+
+This is my enclosure. I built these enclosures using a 3D printer. First, the sensor's enclosure is open design for detect magnetic material. I made a separate enclosure for the sensor to reduce the impact on the Raspberry Pi when I thought it would be mounted on a car. Most enclosures of Raspberry Pi and pcb are encased in a case because their primary purpose is to protect them.
 
 Elcoser design link(stl file): https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl
 
