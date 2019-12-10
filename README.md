@@ -95,7 +95,6 @@ Budget LINK: <a href="https://github.com/SeungMin-Song/Dashboard-Sensors/blob/ma
 	
 	3) Test BreadBoard design and measure supply power: 1~2 hours
 	
-	
 	4) Order pcb: 1 day
 	
 	5) Sordering PCB and test: 1~2 hours
