@@ -2,11 +2,11 @@
 # Automitive UI - Dashboard Sensors
 ## Introduction using a system diagram
 
-
+![system diagram](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/system_diagram.png)
 
 ## Bill of Materials/Budget
 
-<table style="width:100%" background-color: #f1f1c1>
+<table style="width:100%" >
   <tr>
     <th>Product Name</th>
     <th>Price</th>
@@ -28,12 +28,33 @@
 	<td>CAD$ 157.93</td>
     <td>CanaKit</td>
   </tr>
-	<tr>
+  <tr>
     <td>Magnet</td>
     <td>CAD$ 1.50</td>
 	<td>CAD$ 0.00</td>
 	<td>CAD$ 1.70</td>
     <td>Dollarama</td>
+  </tr>
+
+  <tr>
+    <td>PCB board</td>
+    <td>CAD$ 0.00</td>
+	<td>CAD$ 0.00</td>
+	<td>CAD$ 0.00</td>
+    <td>Prototype Lab</td>
+	
+   <td>Elcosure</td>
+    <td>CAD$ 0.00</td>
+	<td>CAD$ 0.00</td>
+	<td>CAD$ 0.00</td>
+    <td>Idea Lab</td>
+  </tr>
+</table>
+
+<table style="width:100%" >
+  <tr>
+    <th>Total cost</th>
+    <th>CAD$ 171.64</th>
   </tr>
 </table>
 
