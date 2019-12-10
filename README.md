@@ -3,14 +3,12 @@
 ## Table of Contents
 
 1.  [Introduction using a system diagram](#introduction-using-a-system-diagram)
-2.  [Bill of Materials](#bill-of-materials) 
+2.  [Bill of Materials/Budget](#bill-of-materials-burget) 
 3.  [Time Commitment](#time-commitment)
 4.  [Mechanical Assembly](#mechanical-assembly)
 5.  [PCB/Soldering](#pcb-soldering)
-6.  [Power Up](#power-up)
-7.  [Unit Testing](#unit-testing)
-8.  [Production Testing](#production-testing)
-9.  [Reproducible](#reproducible)
+6.  [Power Up and production testing](#power-up-and-production-testing)
+7.  [Enclosure](#enclosure)
 
 
 ## Introduction using a system diagram
@@ -155,7 +153,7 @@ finally:
 	GPIO.cleanup()
 ```
 
-## PCB / Soldering
+## PCB/Soldering
 
 ![pcb](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)
 
