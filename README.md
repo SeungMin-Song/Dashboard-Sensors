@@ -65,6 +65,46 @@
 
 ## Mechanical Assembly
 
+### Make connection
+
+### Design Bread Board circuit
+
+### Check Sensor supply power
+
+### Design PCB circuit
+
+### Coding
+
+```
+import RPi.GPIO as GPIO
+
+HALL = 12
+
+GPIO.setmode(GPIO.BOARD)
+
+GPIO.setwarnings(False)
+
+GPIO.setup(HALL, GPIO.IN, pull_up_down=GPIO.PUD_UP)
+
+def change_detected(channel):
+	if GPIO.input(HALL) == GPIO.LOW:
+		print("Magnetic material detected.")
+	else:
+		print("No magnetic material.")
+
+GPIO.add_event_detect(HALL, GPIO.BOTH, change_detected, bouncetime=25)
+
+try:
+	while True:
+		pass
+
+except KeyboardInterrup:
+	print("Ctrl-C - quit")
+
+finally:
+	GPIO.cleanup()
+```
+
 ## PCB / Soldering
 
 ![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
@@ -72,6 +112,18 @@
 
 
 ## Power Up and production testing
+
+### Bread Board Power up
+
+![BB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg)
+
+### PCB Power up
+
+![PCB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG)
+
+### Result/Output
+
+![result](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/output_of_sensor_test.jpg)
 
 ## Enclosure
 
