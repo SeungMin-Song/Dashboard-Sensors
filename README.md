@@ -1,7 +1,5 @@
 
 # Automitive UI - Dashboard Sensors
-## Correct README.md usage
-
 ## Introduction using a system diagram
 
 
