@@ -1,5 +1,16 @@
 
 # Automitive UI - Hall Effect Sensor
+
+## Introduction using a system diagram
+
+![system diagram](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/system_diagram.png)
+
+The subject of our project team is Automotive UI. Our main goal is to make it easier and faster for doctors, nurses and paramedics to communicate. The main purpose in hardware is to design and build dashboard for paramedics.
+
+My sensor is a hall effect sensor. Hall effect sensors are devices used to measure the magnitude of a magnetic field. The output voltage is directly proportional to the magnetic field strength through it. The sensor can be tested with magnetic materials. This allows you to get various values such as RPM, speed and distance.
+
+At CENG317 I focused on sensor connection and testing. As you can see on the system diagram, I used a magnet to generate a magnetic field between the Hall effect sensor and the magnet. At this time, the voltage value of the signal changes and this data is sent to Raspberry Pi. I used a Wi-Fi connection to connect my Raspberry Pi to my laptop(screen), displaying the information from the Hall Effect sensor.
+
 ## Table of Contents
 
 1.  [Introduction using a system diagram](#introduction-using-a-system-diagram)
@@ -9,17 +20,6 @@
 5.  [PCB with soldering](#pcb-with-soldering)
 6.  [Power Up and production testing](#power-up-and-production-testing)
 7.  [Enclosure](#enclosure)
-
-
-## Introduction using a system diagram
-
-The subject of our project team is Automotive UI. Our main goal is to make it easier and faster for doctors, nurses and paramedics to communicate. The main purpose in hardware is to design and build dashboard for paramedics.
-
-My sensor is a hall effect sensor. Hall effect sensors are devices used to measure the magnitude of a magnetic field. The output voltage is directly proportional to the magnetic field strength through it. The sensor can be tested with magnetic materials. This allows you to get various values such as RPM, speed and distance.
-
-At CENG317 I focused on sensor connection and testing. As you can see on the system diagram, I used a magnet to generate a magnetic field between the Hall effect sensor and the magnet. At this time, the voltage value of the signal changes and this data is sent to Raspberry Pi. I used a Wi-Fi connection to connect my Raspberry Pi to my laptop(screen), displaying the information from the Hall Effect sensor.
-
-![system diagram](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/system_diagram.png)
 
 ## Bill of Materials
 
@@ -56,14 +56,14 @@ To implement this project, I purchased a hall effect sensor, a Raspberry Pi 4 B 
   </tr>
 
   <tr>
-    <td>PCB board</td>
+    <td>PCB board(https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)</td>
     <td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
     <td>Prototype Lab</td>
 </tr>
 <tr>
-   <td>Elcosure(Using 3D printer)</td>
+   <td>Elcosure(Using 3D printer: https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl)</td>
     <td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
 	<td>CAD$ 0.00</td>
@@ -204,6 +204,14 @@ How power up:
 	
 	3. If Blue led turns on, you are success to power up.
 
+### Bread Board Power up
+
+![BB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg)
+
+### PCB Power up
+
+![PCB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG)
+
 Sensor Testing:
 	
 	Read values from sensor
@@ -216,14 +224,6 @@ Sensor Testing:
 		
 		4. Test using magnet (If you success, some sentence will be printed with orange LED)
 
-### Bread Board Power up
-
-![BB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/BBwithSensor.jpg)
-
-### PCB Power up
-
-![PCB_power_up](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/power_on_pcb.PNG)
-
 ### Result/Output
 
 when sensor detects magnetic or magnetic materials terminal prints "Magnetic material detected". If it removed, terminal prints "Nonmagnetic material".
@@ -234,7 +234,7 @@ when sensor detects magnetic or magnetic materials terminal prints "Magnetic mat
 
 This is my enclosure. I built these enclosures using a 3D printer. First, the sensor's enclosure is open design for detect magnetic material. I made a separate enclosure for the sensor to reduce the impact on the Raspberry Pi when I thought it would be mounted on a car. Most enclosures of Raspberry Pi and pcb are encased in a case because their primary purpose is to protect them.
 
-Elcoser design link(stl file): https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl
+Enclosure design link(stl file): https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/full_design_case.stl
 
 ![3D case](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/case.PNG)
 
