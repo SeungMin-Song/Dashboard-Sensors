@@ -67,11 +67,27 @@
 
 ### Make connection
 
+```
+network={
+	ssid="WiFi Name"
+	password="WiFi Password"
+	priority=999
+	}
+```
+
+![ip_addr](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/ip_addr.PNG)
+
 ### Design Bread Board circuit
+
+![BB_Design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Hall%20Effect%20Sensor_BB.ps.png)
 
 ### Check Sensor supply power
 
-### Design PCB circuit
+![check power voltage](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/Check_Power_Voltage.jpg)
+
+### Design PCB
+
+![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
 
 ### Coding
 
@@ -107,7 +123,6 @@ finally:
 
 ## PCB / Soldering
 
-![pcb design](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/design/Hall%20Effect%20Sensor%20pcb_pcb.jpg)
 ![pcb](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/pcb.png)
 
 
