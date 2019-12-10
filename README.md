@@ -86,6 +86,8 @@ I was having trouble connecting my Raspberry Pi to my laptop on Breadboard Miles
 
 In PCB power-up I faced the problem of not turning on when using pcb. But I knew this was a problem with my sordering, and I finished pcb power ups two days later.
 
+If you know how to set up Raspberry Pi and do soldering, it will take a similar time as the schedule below.
+
 ![schedule](https://github.com/SeungMin-Song/Dashboard-Sensors/blob/master/images/schedule.PNG)
 
 ## Mechanical Assembly
