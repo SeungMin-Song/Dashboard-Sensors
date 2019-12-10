@@ -2,7 +2,7 @@
 # Automitive UI - Hall Effect Sensor
 ## Table of Contents
 
-1.  [Introduction using a system diagram](## Introduction using a system diagram)
+1.  [Introduction using a system diagram](#introduction-using-a-system-diagram)
 2.  [Bill of Materials](#bill-of-materials) 
 3.  [Time Commitment](#time-commitment)
 4.  [Mechanical Assembly](#mechanical-assembly)
