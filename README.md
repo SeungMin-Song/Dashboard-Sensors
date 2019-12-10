@@ -177,7 +177,17 @@ And do soldering with headers(3 pins header and 6 pins header)
 
 ## Power Up and production testing
 
-How power up
+How power up:
+	1. connect BB/PCB to Hall Effect Sensor and Raspberry pi (using jumper wires)
+	2. connect power to raspberry pi
+	3. If Blue led turns on, you are success to power up.
+
+Sensor Testing:
+	Read values from sensor
+		1. Connect raspberry pi to monitor/Labtop
+		2. Run VNC Viewer
+		3. Run your python progeram in the terminal
+		4. Test using magnet (If you success, some sentence will be printed with orange LED)
 
 ### Bread Board Power up
 
